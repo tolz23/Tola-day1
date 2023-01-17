@@ -1,0 +1,15 @@
+image{
+    margin: 100px 120px;
+}
+#div1{
+    margin: 0px;text-align: center;display: block;flex-direction: column;justify-content: center;
+}
+#span1{
+ font-size: xx-large;font-weight: bolder;font-style: normal;color: black;
+}
+p{
+ font-size: small; font-weight: lighter;color: grey; 
+}
+#span2{
+ font-size: x-small; font-weight: bold;color: black;  
+}
